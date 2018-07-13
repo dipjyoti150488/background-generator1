@@ -1,0 +1,8 @@
+/* background linear gradient syntax: */
+/* https://www.w3schools.com/css/css3_gradients.asp */
+body{
+  background: linear-gradient(to right, red, yellow);
+  text-align: center;
+  text-transform: uppercase;
+  color: rgba(0,0,0,0.5);
+}
